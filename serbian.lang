@@ -73,7 +73,7 @@
 72=Ekran je isključen.
 73=Emituje oštro svetlo.
 74=Igraj online nivoe
-75=Editor nivoa
+75=Level Editor
 76=Nivo
 77=Početnik
 78=Standardni
@@ -383,7 +383,7 @@
 382=POMAGALO: Veoma čvrst svemirski brod!
 383=POMAGALO: Povećava preciznost oružja i smanjuje trzaj, radi na oružjima koja zahtevaju nišanjenje.
 384=POMAGALO: Vaše nišanjenje je dostiglo savršenstvo.
-385=POMAGALO: Jači magnet privlači novčiće ka vama. Takođe magneti rade na regrutacijama.
+385=POMAGALO: Jači magnet privlači novčiće ka vama. Takođe, magneti rade na regrutacijama.
 386=POMAGALO: Magnetizujte sve!
 387=POMAGALO: Sposobnost se automatski puni sa ovim pomagalom, međutim, zaustaviće se na granici. Viši nivo će brže puniti sposobnost.
 388=POMAGALO: Vaše moći se pune trenutno. Sam kosmos napaja vaše sposobnosti.
@@ -391,7 +391,7 @@
 390=POMAGALO: Moglo bi isto tako da više ne bude nasumično.
 391=POMAGALO: Ubedite Zemlju da vredite više i da tražite veću isplatu po preskočenom talasu. Prihvatiće uslove ako im date novac.
 392=POMAGALO: Veruju vam. Ali ovo je najviše što ćete dobiti od toga.
-393=POMAGALO: Masivan niz šiljaka je prikačen na vaš brod, nanoseći štetu kada bilo koji asteroid dođe u kontakt.
+393=POMAGALO: Masivan niz šiljaka je prikačen na vaš brod nanoseći štetu kada bilo koji asteroid dođe u kontakt.
 394=POMAGALO: Dodir znači smrt.
 395=POMAGALO: Smanjuje vreme trajanja talasa, međutim, igrač će biti nagrađen sa više novčića na kraju sektora.
 396=POMAGALO: Efikasnost i profit dostižu svoj vrhunac.
@@ -484,7 +484,7 @@
 483=Snajper je precizniji za
 484=Snajperski metak traje jedan frejm duže
 485=Početni štit je jači za
-486=Početni HP štita je jači za
+486=Početno zdravlje štita je jače za
 487=Svaki nivo štita dodaje zdravlje igrača
 488=Štit je sada potpuno imun na metke asteroida
 489=Odskačuće lopte se pune brže za

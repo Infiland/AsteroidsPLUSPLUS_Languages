@@ -161,7 +161,7 @@
 160=Tieni premuto per saltare!
 161=Avvia il Gioco
 162=Gioca ad Asteroids ++ 
-163=BENVENUTO A ASTEROIDS++!\n\nQuesto gioco riceve molte aggiornamenti, quindi assicurati di controllarlo spesso!\nPer favore, dammi feedback su Discord o nell'Extra per dirmi come ti senti, se hai incontrato bug etc.\n\nQuesto messaggio apparirà solo una volta.\nPremi qualsiasi cosa per continuare
+163=BENVENUTO A ASTEROIDS++!Questo gioco riceve molte aggiornamenti, quindi assicurati di controllarlo spesso!Per favore, dammi feedback su Discord o nell'Extra per dirmi come ti senti, se hai incontrato bug etc.Questo messaggio apparirà solo una volta.Premi qualsiasi cosa per continuare
 164=Cambia la tua lingua
 165=La tua funzione di inventario Steam!
 166=Non puoi mai finire con il genocidio degli asteroidi!
@@ -169,7 +169,7 @@
 168=Non hai navi, clicca su Campagna per crearne una!
 169=Fornisci feedback sul gioco e segnala bug, richiedi funzionalità e altro.
 170=UHM... ERA DENARO GRATUITO. MA OK
-171=CARO SERGENTE\n[scale,1](Clic sinistro per saltare)
+171=CARO SERGENTE[scale,1](Clic sinistro per saltare)
 172=SEI STATO INVITATO A [c_lime]PARTECIPARE[/c] A UNA MISSIONE
 173=QUESTA MISSIONE È UNA [c_red]BATTAGLIA[/c] CONTRO [c_gray]METEORITI...
 174=ED È UNA [c_red]GRAVE MINACCIA[/c] PER LA NOSTRA CIVILTÀ
@@ -181,7 +181,7 @@
 180=[c_yellow]RACCOGLI IL DENARO[/c] CHE ABBIAMO PIAZZATO
 181=ECCELLENTE. AVRAI BISOGNO DI MOLTO DENARO PIÙ TARDI [c_yellow]PER I POTENZIAMENTI[/c]
 182=ANCORA UNA VOLTA
-183=SPLENDIDO!\n[scale,1](Clic sinistro per saltare)
+183=SPLENDIDO! [scale,1](Clic sinistro per saltare)
 184=ORA AFFRONTERAI QUESTE [c_red]FASTIDIOSE ROCCE
 185=USA IL TASTO [c_lime]Z[/c] O [c_lime]SPAZIO[/c] O [c_lime]TASTO SINISTRO[/c] PER [c_yellow]SPARARE!
 186=BEN FATTO

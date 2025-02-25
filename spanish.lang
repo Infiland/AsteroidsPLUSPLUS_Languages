@@ -161,7 +161,7 @@
 160=¡Mantén presionado para saltar!
 161=Iniciar el juego
 162=Jugar Asteroids ++ 
-163=¡BIENVENIDO A ASTEROIDS++!\n\nEste juego está recibiendo muchas actualizaciones, así que asegúrate de revisarlo frecuentemente!\nPor favor, dame feedback en Discord o en la pestaña Extras para decirme cómo te sientes, si has encontrado errores, etc.\n\nEste mensaje aparecerá solo una vez.\nPresiona cualquier cosa para continuar
+163=¡BIENVENIDO A ASTEROIDS++!Este juego está recibiendo muchas actualizaciones, así que asegúrate de revisarlo frecuentemente!Por favor, dame feedback en Discord o en la pestaña Extras para decirme cómo te sientes, si has encontrado errores, etc.Este mensaje aparecerá solo una vez.Presiona cualquier cosa para continuar
 164=Cambiar idioma
 165=Tu función de inventario de Steam!
 166=¡No puedes acabar con el genocidio de asteroides!
@@ -169,7 +169,7 @@
 168=¡No tienes naves, haz clic en Campaña para crear una!
 169=Da feedback sobre el juego, reporta bugs, solicita funciones y más.
 170=EH... ERA DINERO GRATIS. PERO OK
-171=ESTIMADO SARGENTO\n[scale,1](Clic izquierdo para saltar)
+171=ESTIMADO SARGENTO[scale,1](Clic izquierdo para saltar)
 172=HAS SIDO INVITADO A [c_lime]PARTICIPAR[/c] EN UNA MISIÓN
 173=ESTA MISIÓN ES UNA [c_red]BATALLA[/c] CONTRA [c_gray]METEORITOS...
 174=Y ES UNA [c_red]AMENAZA MAYOR[/c] PARA NUESTRA CIVILIZACIÓN
@@ -181,7 +181,7 @@
 180=[c_yellow]RECOGE EL DINERO[/c] QUE HEMOS COLOCADO
 181=EXCELENTE. NECESITARÁS MUCHO DINERO MÁS ADELANTE [c_yellow]PARA MEJORAS[/c]
 182=UNA VEZ MÁS
-183=¡ESPLÉNDIDO!\n[scale,1](Clic izquierdo para saltar)
+183=¡ESPLÉNDIDO! [scale,1](Clic izquierdo para saltar)
 184=AHORA TE ENFRENTARÁS A ESTAS [c_red]MOLESTAS ROCAS
 185=¡USA TU TECLA [c_lime]Z[/c] O [c_lime]ESPACIO[/c] O [c_lime]CLIC IZQUIERDO[/c] PARA [c_yellow]DISPARAR!
 186=BIEN HECHO

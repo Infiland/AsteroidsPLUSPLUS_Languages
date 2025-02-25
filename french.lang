@@ -161,7 +161,7 @@
 160=Maintenez pour passer !
 161=Démarrer le jeu
 162=Jouer à Asteroids ++ 
-163=BIENVENUE À ASTEROIDS++!\n\nCe jeu est en cours de mise à jour, assurez-vous de le vérifier fréquemment!\nVeuillez me donner des retours sur Discord ou dans l'onglet Extras pour me dire comment vous sentez, si vous avez rencontré des bugs, etc.\n\nCe message n'apparaîtra qu'une fois.\nAppuyez sur quoi que ce soit pour continuer
+163=BIENVENUE À ASTEROIDS++!Ce jeu est en cours de mise à jour, assurez-vous de le vérifier fréquemment!Veuillez me donner des retours sur Discord ou dans l'onglet Extras pour me dire comment vous sentez, si vous avez rencontré des bugs, etc.Ce message n'apparaîtra qu'une fois.Appuyez sur quoi que ce soit pour continuer
 164=Changer votre langue
 165=Votre fonctionnalité d'inventaire Steam!
 166=Vous ne pouvez jamais finir le génocide des astéroïdes!
@@ -169,7 +169,7 @@
 168=Vous n'avez pas de vaisseaux, cliquez sur 'Campagne' pour en faire un!
 169=Donnez votre avis sur le jeu et signalez des bugs, demandez des fonctionnalités et plus encore.
 170=EUH... C'ÉTAIT DE L'ARGENT GRATUIT. MAIS OK
-171=CHER SERGENT\n[scale,1](Clic gauche pour passer)
+171=CHER SERGENT[scale,1](Clic gauche pour passer)
 172=VOUS AVEZ ÉTÉ INVITÉ À [c_lime]PARTICIPER[/c] À UNE MISSION
 173=CETTE MISSION EST UN [c_red]COMBAT[/c] CONTRE DES [c_gray]MÉTÉORITES...
 174=ET C'EST UNE [c_red]MENACE MAJEURE[/c] POUR NOTRE CIVILISATION
@@ -181,7 +181,7 @@
 180=[c_yellow]COLLECTEZ L'ARGENT[/c] QUE NOUS AVONS PLACÉ
 181=EXCELLENT. VOUS AUREZ BESOIN DE BEAUCOUP D'ARGENT PLUS TARD [c_yellow]POUR LES AMÉLIORATIONS[/c]
 182=ENCORE UNE FOIS
-183=SPLENDIDE!\n[scale,1](Clic gauche pour passer)
+183=SPLENDIDE! [scale,1](Clic gauche pour passer)
 184=MAINTENANT VOUS ALLEZ FAIRE FACE À CES [c_red]ROCHES ENNUYEUSES
 185=UTILISEZ VOTRE TOUCHE [c_lime]Z[/c] OU [c_lime]ESPACE[/c] OU [c_lime]CLIC GAUCHE[/c] POUR [c_yellow]TIRER!
 186=BIEN JOUÉ

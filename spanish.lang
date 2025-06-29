@@ -355,7 +355,7 @@
 354=Solo se necesita un disparo para ganar.
 355=Cuando recibes daño, el escudo repone 'armadura' después de un tiempo, se recarga más rápido si el jugador está inactivo. Cuando el escudo es destruido, el jugador se vuelve invulnerable a cualquier daño por un corto tiempo. Un nivel más alto aumenta la reposición del escudo y da más invulnerabilidad.
 356=Eres intocable.
-357=El jugador deja caer orbes que rebotan por la pantalla, cuando contactan con asteroides, causan daño y rebotan de nuevo, no pueden ser destruidos por asteroides. Los orbes que permanecen más tiempo en pantalla se cargarán y causarán 7X de daño cuando estén llenos.
+357=El jugador deja caer orbes que rebotan por la pantalla, cuando contactan con asteroides, causan daño y rebotan de nuevo, no pueden ser destruidos por asteroides. Los orbes que permanecen más tiempo en pantalla se cargarán y causarán 5X de daño cuando estén llenos.
 358=Tus orbes bailan con una gracia mortal.
 359=El gancho enganchará automáticamente asteroides, causando daño, y luego atraerá monedas cuando termine. Niveles más altos dan ganchos adicionales que son más rápidos, causan más daño y pueden llevar más monedas. Enganchar monedas demasiado grandes o si está demasiado lejos romperá el gancho.
 360=Tus ganchos reescriben las leyes de la física. Todos los tesoros del espacio son atraídos hacia ti ahora.
@@ -621,3 +621,15 @@
 620=¡Nodriza de Zeus!
 621=HIMALIA
 622=¡Himalia está en peligro!
+623=Enero
+624=Febrero
+625=Marzo
+626=Abril
+627=Mayo
+628=Junio
+629=Julio
+630=Agosto
+631=Septiembre
+632=Octubre
+633=Noviembre
+634=Diciembre

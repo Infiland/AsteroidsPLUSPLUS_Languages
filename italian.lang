@@ -355,7 +355,7 @@
 354=Basta un colpo per vincere.
 355=Quando danneggiato, lo scudo ripristina 'armatura' dopo un po' di tempo, si ricarica più velocemente se il giocatore è inattivo. Quando lo scudo viene distrutto, il giocatore diventa invulnerabile a qualsiasi danno per un breve periodo. Un livello più alto aumenta il ripristino dello scudo e dà più invulnerabilità.
 356=Sei intoccabile.
-357=Il giocatore rilascia sfere rimbalzanti che rimbalzano per lo schermo, quando toccano gli asteroidi, infliggono danni e rimbalzano di nuovo, non possono essere distrutte dagli asteroidi. Le sfere che rimangono più a lungo sullo schermo si caricheranno e infliggeranno 7X danni quando sono completamente cariche.
+357=Il giocatore rilascia sfere rimbalzanti che rimbalzano per lo schermo, quando toccano gli asteroidi, infliggono danni e rimbalzano di nuovo, non possono essere distrutte dagli asteroidi. Le sfere che rimangono più a lungo sullo schermo si caricheranno e infliggeranno 5X danni quando sono completamente cariche.
 358=Le tue sfere danzano con grazia mortale.
 359=Il rampino si aggancerà automaticamente agli asteroidi, infliggendo danni, e poi attirerà le monete quando ha finito. Livelli più alti danno rampini aggiuntivi che sono più veloci, infliggono più danni e possono trasportare più monete. Agganciare monete troppo grandi o se è troppo lontano romperà il rampino.
 360=I tuoi rampini riscrivono le leggi della fisica. Tutti i tesori dello spazio sono ora attratti verso di te.
@@ -621,3 +621,15 @@
 620=Infermiera di Zeus!
 621=HIMALIA
 622=Himalia è in pericolo!
+623=Gennaio
+624=Febbraio
+625=Marzo
+626=Aprile
+627=Maggio
+628=Giugno
+629=Luglio
+630=Agosto
+631=Settembre
+632=Ottobre
+633=Novembre
+634=Dicembre

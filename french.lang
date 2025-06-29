@@ -355,7 +355,7 @@
 354=Il ne faut qu'un tir pour gagner.
 355=Quand vous subissez des dégâts, le bouclier reconstitue 'l'armure' après un certain temps, il se recharge plus vite si le joueur est inactif. Quand le bouclier est détruit, le joueur devient invulnérable à tout dégât pendant un court moment. Un niveau plus élevé augmente la reconstitution du bouclier et donne plus d'invulnérabilité.
 356=Vous êtes intouchable.
-357=Le joueur largue des orbes qui rebondissent autour de l'écran, quand ils entrent en contact avec des astéroïdes, ils infligent des dégâts et rebondissent à nouveau, ils ne peuvent pas être détruits par les astéroïdes. Les orbes qui restent plus longtemps à l'écran se chargeront et infligeront 7X de dégâts une fois pleins.
+357=Le joueur largue des orbes qui rebondissent autour de l'écran, quand ils entrent en contact avec des astéroïdes, ils infligent des dégâts et rebondissent à nouveau, ils ne peuvent pas être détruits par les astéroïdes. Les orbes qui restent plus longtemps à l'écran se chargeront et infligeront 5X de dégâts une fois pleins.
 358=Vos orbes dansent avec une grâce mortelle.
 359=Le grappin s'accrochera automatiquement aux astéroïdes, infligeant des dégâts, puis attirera les pièces une fois terminé. Les niveaux plus élevés donnent des grappins supplémentaires qui sont plus rapides, infligent plus de dégâts et peuvent porter plus de pièces. Accrocher des pièces trop grosses ou si c'est trop loin cassera le grappin.
 360=Vos grappins réécrivent les lois de la physique. Tous les trésors de l'espace sont attirés vers vous maintenant.
@@ -621,3 +621,15 @@
 620=Nourrice de Zeus !
 621=HIMALIA
 622=Himalia est en danger !
+623=Janvier
+624=Février
+625=Mars
+626=Avril
+627=Mai
+628=Juin
+629=Juillet
+630=Août
+631=Septembre
+632=Octobre
+633=Novembre
+634=Décembre

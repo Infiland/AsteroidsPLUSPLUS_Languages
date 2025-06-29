@@ -355,7 +355,7 @@
 354=K vítězství stačí jeden výstřel.
 355=Při poškození štít po určité době obnoví 'brnění', dobíjí se rychleji, když je hráč nečinný. Když je štít zničen, hráč se stane na krátkou dobu nezranitelný vůči jakémukoli poškození. Vyšší úroveň zvyšuje obnovu štítu a dává více nezranitelnosti.
 356=Jste nedotknutelní.
-357=Hráč upouští skákající koule, které se odrážejí po obrazovce, když se dotknou asteroidů, způsobují poškození a znovu se odrazí, nemohou být zničeny asteroidy. Koule, které jsou déle na obrazovce, se nabijí a způsobí 7X poškození, když jsou plně nabité.
+357=Hráč upouští skákající koule, které se odrážejí po obrazovce, když se dotknou asteroidů, způsobují poškození a znovu se odrazí, nemohou být zničeny asteroidy. Koule, které jsou déle na obrazovce, se nabijí a způsobí 5X poškození, když jsou plně nabité.
 358=Vaše koule tančí se smrtící grácií.
 359=Hák se automaticky zachytí asteroidů, způsobí poškození a pak přitáhne mince, když je hotovo. Vyšší úrovně dávají další háky, které jsou rychlejší, způsobují více poškození a mohou nést více mincí. Zachycení příliš velkých mincí nebo pokud je příliš daleko zlomí hák.
 360=Vaše háky přepisují zákony fyziky. Všechny poklady vesmíru jsou nyní přitahovány k vám.
@@ -621,3 +621,15 @@
 620=Chůva Dia!
 621=HIMALIA
 622=Himalia je v nebezpečí!
+623=Leden
+624=Únor
+625=Březen
+626=Duben
+627=Květen
+628=Červen
+629=Červenec
+630=Srpen
+631=Září
+632=Říjen
+633=Listopad
+634=Prosinec

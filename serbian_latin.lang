@@ -355,7 +355,7 @@
 354=Potreban je samo jedan hitac za pobedu.
 355=Kada je oštećen, štit obnavlja 'oklop' nakon nekog vremena, obnavlja se brže ako je igrač neaktivan. Kada je štit uništen, igrač postaje neranjiv na bilo kakvu štetu na kratko vreme. Viši nivo povećava obnavljanje štita i daje više neranjivosti.
 356=Vi ste nedodirljivi.
-357=Igrač ispušta odskačuće kugle koje se odbijaju po ekranu, kada dođu u kontakt sa asteroidima, nanose štetu i ponovo se odbijaju, asteroidi ih ne mogu uništiti. Kugle koje su duže na ekranu će se napuniti i naneti 7X štete kada su pune.
+357=Igrač ispušta odskačuće kugle koje se odbijaju po ekranu, kada dođu u kontakt sa asteroidima, nanose štetu i ponovo se odbijaju, asteroidi ih ne mogu uništiti. Kugle koje su duže na ekranu će se napuniti i naneti 5X štete kada su pune.
 358=Vaše kugle plešu sa smrtonosnom gracioznošću.
 359=Kuka će automatski zakačiti asteroide, nanoseći štetu, a zatim povući novčiće kada završi. Viši nivoi daju dodatne kuke koje postaju brže, nanose više štete i mogu nositi više novčića. Kačenje prevelikih ili predalekih novčića može slomiti kuku.
 360=Vaše kuke prkose zakonima fizike. Sva blaga svemira se sada privlače ka vama.
@@ -621,3 +621,15 @@
 620=Dadilja Zevsa!
 621=HIMALIJA
 622=Himalija je u opasnosti!
+623=Januar
+624=Februar
+625=Mart
+626=April
+627=Maj
+628=Jun
+629=Jul
+630=Avgust
+631=Septembar
+632=Oktobar
+633=Novembar
+634=Decembar

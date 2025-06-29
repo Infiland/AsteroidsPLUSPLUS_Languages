@@ -355,7 +355,7 @@
 354=It only takes one shot to win.
 355=When damaged, shield replenishes 'armor' after some time, it recharges faster if the player is idle. When the shield is destroyed, the player gets invulnerable to any damage for a short time. Higher level increases shield replenishment and gives more invulnerability.
 356=You are untouchable.
-357=Player drops bouncing orbs that bounce around the screen, when they contact asteroids, they deal damage and bounce again, they can't be destroyed by asteroids. Orbs longer on screen will charge up and deal 7X damage when full.
+357=Player drops bouncing orbs that bounce around the screen, when they contact asteroids, they deal damage and bounce again, they can't be destroyed by asteroids. Orbs longer on screen will charge up and deal 5X damage when full.
 358=Your orbs dance with a deadly grace.
 359=The hook will automatically hook in asteroids, dealing damage, and then pull coins when it is done. Higher levels gives additional hooks that get faster, deal more damage, and can carry more coins. Hooking coins too large or if it's too far away will break the hook.
 360=Your hooks rewrite the laws of physics. All treasures of space are pulled to you now.
@@ -621,3 +621,15 @@
 620=Nurse of Zeus!
 621=HIMALIA
 622=Himalia is in danger!
+623=January
+624=February
+625=March
+626=April
+627=May
+628=June
+629=July
+630=August
+631=September
+632=October
+633=November
+634=December

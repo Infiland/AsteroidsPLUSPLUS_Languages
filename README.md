@@ -1,3 +1,6 @@
+This repository is a sub-module of Asteroids ++, containing all translations
+Please fork this repository and make a pull request to make updates.
+
 # Adding a New Language
 
 To add a new language to the game, follow these steps:
